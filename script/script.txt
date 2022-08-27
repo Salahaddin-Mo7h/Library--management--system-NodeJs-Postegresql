@@ -1,0 +1,17 @@
+Sql Scripts
+
+
+For insert the role
+At initial
+
+INSERT INTO public.roles(
+	id, name, "createdAt", "updatedAt")
+	VALUES (1, 'user', current_timestamp, current_timestamp);
+
+INSERT INTO public.roles(
+	id, name, "createdAt", "updatedAt")
+	VALUES (2, 'admin', current_timestamp, current_timestamp);
+
+-------For insert admin user
+
+------Run the postman request.   create user
