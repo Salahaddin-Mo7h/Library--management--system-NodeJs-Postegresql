@@ -6,7 +6,6 @@
 * **[Node.js](https://nodejs.org/en/)**
 * **[Postman](https://www.getpostman.com/)**
 * **[PostgreSQL - PgAdmin](https://www.postgresql.org/download/)**
-* **[React](https://reactjs.org/)**
 
 ## Running the application locally ⭐️
 
